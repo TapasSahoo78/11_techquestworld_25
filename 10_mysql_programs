@@ -1,0 +1,101 @@
+## 🧠 **REAL-WORLD LOGIC MYSQL PROGRAMS (5–10 MINUTE VIDEOS)**
+
+### 🗄️ **1. Database Basics & Setup**
+
+1. "How to Create & Manage Real Databases in MySQL | Step-by-Step Setup ⚙️"
+2. "Real-World MySQL Table Design | Students, Employees, Products 📊"
+3. "Primary Key vs Foreign Key Explained with Real Example 🔑"
+4. "Build Your First Company Database in MySQL 🏢"
+5. "Normalize Your Database Like a Pro | Real-World Logic 💡"
+
+---
+
+### 📋 **2. Data Insertion & Retrieval**
+
+6. "Insert, Update, and Delete Records in MySQL | Real Office Example 🧾"
+7. "Display Employee Details Using MySQL SELECT | Real Program 👨‍💼"
+8. "Fetch Student Marks Sheet Using MySQL Queries 🎓"
+9. "Dynamic Product Listing Using MySQL | Real E-Commerce Example 🛒"
+10. "MySQL Query to Search Records by Name, ID, or Date 🔍"
+
+---
+
+### 📈 **3. Aggregation & Analytics**
+
+11. "Calculate Total Sales Using MySQL SUM() | Real Business Logic 💰"
+12. "Find Highest & Lowest Salary in MySQL | HR Real Example 🏆"
+13. "MySQL COUNT() and AVG() Explained with Real Data 📊"
+14. "Generate Department-Wise Report Using GROUP BY in MySQL 🏢"
+15. "MySQL Real Project: Calculate Monthly Revenue Report 💼"
+
+---
+
+### 📅 **4. Date & Time Logic**
+
+16. "Find Employees Joined This Month | MySQL Real Logic 🗓️"
+17. "Calculate Age from DOB Using MySQL Functions 🎂"
+18. "MySQL Query: Days Between Two Dates ⏰"
+19. "Real Attendance Tracker Logic Using MySQL Date Functions 📆"
+20. "Upcoming Birthdays Finder Using MySQL Query 🎉"
+
+---
+
+### 🧩 **5. Conditional Logic (IF, CASE, etc.)**
+
+21. "MySQL CASE Statement in Real Life | Grade System Example 🎓"
+22. "Calculate Bonus Based on Salary | Real-World IF Logic 💸"
+23. "Display ‘Pass/Fail’ Based on Marks | MySQL Conditional Query 🧠"
+24. "Real E-Commerce Discount Logic Using MySQL CASE 🏷️"
+25. "Tax Calculation in MySQL | Real Office Program 💼"
+
+---
+
+### 🧱 **6. Joins (Combining Tables)**
+
+26. "INNER JOIN Explained with Real Example | Employees & Departments 👨‍💻"
+27. "LEFT JOIN Real-World Logic | Show Students Without Marks 🏫"
+28. "RIGHT JOIN Example | Customers Without Orders 🛍️"
+29. "Combine 3 Tables Using MySQL JOIN | Real Database Logic 🔗"
+30. "Real CRM Example: Users, Orders, Products Joined Together ⚙️"
+
+---
+
+### 🧮 **7. Subqueries & Nested Logic**
+
+31. "Find Employees Earning Above Average Salary | Subquery Example 💰"
+32. "Real-World Nested Query: Top Scoring Students 🧾"
+33. "Find Duplicate Emails Using Subquery in MySQL 📧"
+34. "Get Latest Order Per Customer Using Subquery 🛒"
+35. "Compare Two Tables Using MySQL Subqueries ⚖️"
+
+---
+
+### 💾 **8. Backup, Restore & Optimization**
+
+36. "Backup & Restore MySQL Database | Real Company Example 💽"
+37. "Optimize Your MySQL Tables for Speed ⚡"
+38. "Import & Export Data (CSV/SQL) | Real-World Logic 📤📥"
+39. "Create Auto Increment ID System | MySQL Explained 🔢"
+40. "How to Schedule Database Backup Automatically ⏱️"
+
+---
+
+### 🧰 **9. Security & Access**
+
+41. "Create MySQL User Accounts with Privileges 🔐"
+42. "How to Secure Your MySQL Database | Real Practices 🧠"
+43. "Restrict Access by Role | MySQL GRANT Example 🧾"
+44. "Audit Table Changes Using MySQL Triggers 👀"
+45. "Build Simple Login Verification Using MySQL Query 🪪"
+
+---
+
+### 🔄 **10. Advanced Real-World Programs**
+
+46. "Track Product Quantity Automatically Using MySQL Triggers 📦"
+47. "Auto-Generate Invoice Number in MySQL 💵"
+48. "MySQL Stored Procedure for Daily Report Generator 🗓️"
+49. "Build Real Feedback Rating System in MySQL ⭐"
+50. "MySQL Project: Real Expense Tracker 💰"
+
+------------------------------------------------------------------------------------------------------------------------------
