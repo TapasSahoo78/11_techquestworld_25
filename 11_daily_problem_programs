@@ -1,0 +1,454 @@
+Perfect 🔥 — you’re planning a daily YouTube series with 100+ real-world JavaScript or Python problems, each solved in under 5 minutes — ideal for consistent growth and audience retention.
+
+Let’s structure this smartly 👇
+
+
+---
+
+🎯 GOAL
+
+Each video =
+1️⃣ Real-world problem statement (practical use-case)
+2️⃣ Step-by-step solution explanation
+3️⃣ Final code with output
+4️⃣ Optional: optimization tip or variant
+
+
+---
+
+💡 100+ REAL-WORLD PROBLEM STATEMENTS (JS or Python)
+
+Organized by category to keep your uploads consistent.
+
+
+---
+
+🧮 1. Basic Logic & Math
+
+1. Calculate compound interest for a given principal, rate, and time.
+
+
+2. Find the day of the week for any given date.
+
+
+3. Convert decimal numbers to binary and hexadecimal.
+
+
+4. Calculate EMI for a loan.
+
+
+5. Generate random OTP of fixed length.
+
+
+6. Check if a number is an Armstrong number.
+
+
+7. Find HCF and LCM of two numbers.
+
+
+8. Convert temperature (Celsius ↔ Fahrenheit).
+
+
+9. Calculate area and perimeter of shapes (circle, rectangle, triangle).
+
+
+10. Find factorial using recursion.
+
+
+
+
+---
+
+📅 2. Date & Time Utilities
+
+11. Countdown timer till New Year.
+
+
+12. Find the difference between two dates in days.
+
+
+13. Get the current week number of the year.
+
+
+14. Schedule task at a particular time.
+
+
+15. Convert UTC time to local timezone.
+
+
+16. Calculate age from birthdate.
+
+
+17. Generate digital clock with live updates.
+
+
+18. Display “Good Morning/Afternoon/Night” based on time.
+
+
+19. Find working days between two dates.
+
+
+20. Add n business days to a given date.
+
+
+
+
+---
+
+📂 3. File & Data Handling
+
+21. Read a CSV and calculate total sales.
+
+
+22. Find most frequent word in a text file.
+
+
+23. Count lines, words, and characters in a file.
+
+
+24. Rename multiple files in a folder automatically.
+
+
+25. Backup specific file types (e.g., .jpg) from a folder.
+
+
+26. Extract email IDs from a text file.
+
+
+27. Merge two CSV files.
+
+
+28. Convert JSON data to CSV.
+
+
+29. Sort JSON by key or value.
+
+
+30. Generate a random JSON dataset.
+
+
+
+
+---
+
+🧠 4. String & Text Processing
+
+31. Reverse each word in a sentence.
+
+
+32. Count vowels and consonants in a string.
+
+
+33. Check if two strings are anagrams.
+
+
+34. Remove duplicate characters.
+
+
+35. Find longest word in a sentence.
+
+
+36. Capitalize first letter of every word.
+
+
+37. Find frequency of each word.
+
+
+38. Validate strong password.
+
+
+39. Encode and decode Base64 text.
+
+
+40. Find palindrome words from list.
+
+
+
+
+---
+
+🧾 5. Arrays / Lists Operations
+
+41. Find second largest number.
+
+
+42. Remove duplicates from an array.
+
+
+43. Merge two sorted arrays.
+
+
+44. Find intersection and union of arrays.
+
+
+45. Rotate array elements by n positions.
+
+
+46. Calculate average and median.
+
+
+47. Flatten nested array.
+
+
+48. Shuffle array elements randomly.
+
+
+49. Find missing number in sequence.
+
+
+50. Group objects by key (e.g., group students by class).
+
+
+
+
+---
+
+📊 6. Real Data / API Use
+
+51. Fetch live weather using API.
+
+
+52. Get current crypto prices using API.
+
+
+53. Fetch GitHub user details.
+
+
+54. Fetch random jokes or quotes.
+
+
+55. Get public holiday list by country.
+
+
+56. Track live exchange rates (USD-INR).
+
+
+57. Show latest news headlines.
+
+
+58. Check if a website is live (HTTP status).
+
+
+59. Get sunrise and sunset time of a city.
+
+
+60. Generate QR code for a URL.
+
+
+
+
+---
+
+💼 7. Business & Utility
+
+61. Invoice total calculator with tax.
+
+
+62. Validate GST number format.
+
+
+63. Generate random invoice numbers.
+
+
+64. Currency converter using API.
+
+
+65. Email validation and formatting.
+
+
+66. Employee attendance summary.
+
+
+67. Generate secure passwords for users.
+
+
+68. Calculate working hours between two times.
+
+
+69. Detect duplicate customer emails.
+
+
+70. Expense tracker (monthly total).
+
+
+
+
+---
+
+🎮 8. Fun / Games
+
+71. Rock-Paper-Scissors game.
+
+
+72. Number guessing game.
+
+
+73. Simple dice roller simulator.
+
+
+74. Word scramble solver.
+
+
+75. Typing speed test.
+
+
+76. Memory card flip game logic.
+
+
+77. Hangman text-based game.
+
+
+78. Tic-tac-toe with AI.
+
+
+79. Simple quiz app logic.
+
+
+80. Random story generator.
+
+
+
+
+---
+
+🧑‍💻 9. Web / DOM / Automation
+
+81. Form validation (email, password).
+
+
+82. Detect user’s device type.
+
+
+83. Auto-save form data in localStorage.
+
+
+84. Copy text to clipboard.
+
+
+85. Character counter for textarea.
+
+
+86. Dark/light theme toggler.
+
+
+87. Detect Internet connection status.
+
+
+88. Scroll progress indicator.
+
+
+89. Image lazy loading logic.
+
+
+90. Simple to-do list (add/remove/save).
+
+
+
+
+---
+
+🧰 10. Algorithms & Logic Building
+
+91. Binary search implementation.
+
+
+92. Bubble sort visualization.
+
+
+93. Fibonacci using dynamic programming.
+
+
+94. Find duplicates using hash map.
+
+
+95. Word frequency using dictionary.
+
+
+96. Find missing element in range.
+
+
+97. Matrix transpose.
+
+
+98. Count prime numbers in a range.
+
+
+99. Detect palindrome number.
+
+
+100. Find longest common prefix in words.
+
+
+
+
+---
+
+💥 BONUS (for more videos)
+
+101. URL shortener logic.
+
+
+102. Detect and remove emojis from text.
+
+
+103. Generate random hex color palette.
+
+
+104. Convert numbers to words (e.g., 123 → “One Hundred Twenty Three”).
+
+
+105. Create simple captcha generator.
+
+
+106. Summarize a paragraph using basic NLP.
+
+
+107. Track typing time per word.
+
+
+108. Convert Excel to JSON (Python).
+
+
+109. Send email automatically (Python).
+
+
+110. Screenshot a website using script.
+
+
+
+
+---
+
+📅 Strategy Suggestion (for YouTube)
+
+Upload daily or 3x per week.
+
+Alternate between JavaScript and Python.
+
+Keep format consistent:
+
+Hook (5 sec): “Today we’ll solve a real-world problem — [problem title].”
+
+Explain (1 min): Problem and logic.
+
+Code (2–3 min): Full coding with comments.
+
+Wrap (30 sec): Output + next video teaser.
+
+
+
+
+---
+
+Would you like me to now:
+
+1. 📘 Write Problem #1 (Compound Interest) full script (with explanation + code + voiceover lines)?
+or
+
+
+2. ⚙️ Generate auto YouTube video format templates for all 100 problems (title, description, hashtags, tags)?
+
+
+
+Which direction do you want next?
+
