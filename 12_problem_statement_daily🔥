@@ -1,0 +1,1935 @@
+Perfect 👏 — You’re absolutely right.
+
+For real-world + project-related YouTube videos, the problem statement should clearly define:
+
+Input (what is given)
+
+Expected Output (what to produce)
+
+Real-world context (where or why it’s used — project link)
+
+
+That’s what makes viewers instantly understand the purpose of your code — not just the logic.
+
+Let’s redefine the list into “Project-style Problem Statements” with Input + Output format examples — and I’ll show you how to phrase them for video titles + explanations.
+
+
+---
+
+💡 EXAMPLE FORMAT (You’ll use for all your videos)
+
+Problem Statement:
+Given X as input, build a program that does Y and returns Z.
+
+Example Input → Output:
+Input: [sample input]
+Output: [expected output]
+
+Real-World Use: [where used in real projects]
+
+
+---
+
+Now let’s rewrite the first 20 in that professional YouTube-style format 👇
+(You can do JavaScript or Python — both logic same.)
+
+
+---
+
+🧮 1. Compound Interest Calculator
+
+Problem:
+Given principal (P), rate (R%), and time (T years), calculate compound interest.
+
+Input:
+P = 10000, R = 5, T = 2
+Output:
+Compound Interest = 1025
+
+Use Case:
+Used in finance or loan management dashboards to calculate total payable amount.
+
+
+---
+
+📆 2. Age Calculator
+
+Problem:
+Given a date of birth, calculate the current age in years.
+
+Input:
+DOB = “2000-06-25”
+Output:
+Age = 25 years
+
+Use Case:
+Used in user registration, HR systems, and ID verification portals.
+
+
+---
+
+💰 3. Currency Converter (API)
+
+Problem:
+Convert an amount from one currency to another using live exchange rates API.
+
+Input:
+Amount = 100, From = “USD”, To = “INR”
+Output:
+100 USD = 8350 INR
+
+Use Case:
+Used in e-commerce and travel apps to display local currency prices.
+
+
+---
+
+🔐 4. Strong Password Validator
+
+Problem:
+Check if a given password meets all security rules.
+
+Input:
+Password = “Code@123”
+Output:
+Valid Password ✅
+
+Use Case:
+Used in signup/login pages of web apps.
+
+
+---
+
+📊 5. Sales Data Analyzer
+
+Problem:
+Given monthly sales JSON data, calculate total revenue and best-performing month.
+
+Input:
+{ Jan: 10000, Feb: 15000, Mar: 12000 }
+Output:
+Total = 37000, Best Month = Feb
+
+Use Case:
+Used in dashboards and admin panels.
+
+
+---
+
+⏰ 6. Countdown Timer App
+
+Problem:
+Create a timer that counts down to a given future date/time.
+
+Input:
+Target = “2025-12-31 23:59:59”
+Output:
+Countdown → 75 days, 10 hrs, 30 mins
+
+Use Case:
+Used in event launch pages, e-commerce sale countdowns.
+
+
+---
+
+📧 7. Email Extractor
+
+Problem:
+Extract all email addresses from a given text file or string.
+
+Input:
+“This is codeyield@gmail.com and admin@tech.com”
+Output:
+[“codeyield@gmail.com”, “admin@tech.com”]
+
+Use Case:
+Used in marketing tools or data cleaning scripts.
+
+
+---
+
+📁 8. File Backup Automation
+
+Problem:
+Backup all .jpg files from a folder into a new directory automatically.
+
+Input:
+Source folder path
+Output:
+Backup folder created with all .jpg files
+
+Use Case:
+Used in file management, cloud sync tools.
+
+
+---
+
+📆 9. Working Days Calculator
+
+Problem:
+Given two dates, calculate number of working (non-weekend) days.
+
+Input:
+Start = “2025-01-01”, End = “2025-01-10”
+Output:
+6 working days
+
+Use Case:
+Used in HR attendance or project timeline management tools.
+
+
+---
+
+📱 10. OTP Generator
+
+Problem:
+Generate a random OTP of fixed length (digits only).
+
+Input:
+Length = 6
+Output:
+OTP = 294681
+
+Use Case:
+Used in login/signup verification systems.
+
+
+---
+
+🧾 11. Invoice Tax Calculator
+
+Problem:
+Calculate total invoice value including GST (tax).
+
+Input:
+Base Amount = 5000, GST = 18%
+Output:
+Total = 5900
+
+Use Case:
+Used in billing and accounting systems.
+
+
+---
+
+🎨 12. Random Color Palette Generator
+
+Problem:
+Generate 5 random hex colors for design use.
+
+Input:
+n = 5
+Output:
+[“#FF5733”, “#2ECC71”, “#3498DB”, “#9B59B6”, “#F1C40F”]
+
+Use Case:
+Used by designers and developers for quick theme creation.
+
+
+---
+
+🧠 13. Word Frequency Counter
+
+Problem:
+Count how many times each word appears in a paragraph.
+
+Input:
+Text = “AI is future and AI is now”
+Output:
+{ AI: 2, is: 2, future: 1, and: 1, now: 1 }
+
+Use Case:
+Used in content analytics and SEO keyword tools.
+
+
+---
+
+🕹️ 14. Rock Paper Scissors Game
+
+Problem:
+Simulate a simple player vs computer Rock-Paper-Scissors game.
+
+Input:
+Player = “Rock”
+Output:
+Computer = “Scissors”, Result = “Player Wins!”
+
+Use Case:
+Fun beginner-level project or game logic demo.
+
+
+---
+
+🧩 15. JSON to CSV Converter
+
+Problem:
+Convert JSON data to a CSV file format.
+
+Input:
+[{“name”: “John”, “age”: 25}, {“name”: “Emma”, “age”: 28}]
+Output:
+CSV file with rows for John and Emma.
+
+Use Case:
+Used in exporting API or database data.
+
+
+---
+
+📈 16. Crypto Price Tracker (API)
+
+Problem:
+Fetch and display live Bitcoin price in INR using API.
+
+Input:
+Crypto = “BTC”
+Output:
+BTC = ₹5,845,210
+
+Use Case:
+Used in fintech or investment dashboards.
+
+
+---
+
+💡 17. Electricity Bill Calculator
+
+Problem:
+Given units consumed, calculate total bill using rate slabs.
+
+Input:
+Units = 250
+Output:
+Total Bill = ₹1320
+
+Use Case:
+Used in billing systems or consumer utilities dashboards.
+
+
+---
+
+🔢 18. Number to Words Converter
+
+Problem:
+Convert numeric value to English words.
+
+Input:
+1234
+Output:
+“One Thousand Two Hundred Thirty-Four”
+
+Use Case:
+Used in cheque print, invoices, and reporting systems.
+
+
+---
+
+🧮 19. Student Grade Calculator
+
+Problem:
+Given marks of subjects, calculate total, percentage, and grade.
+
+Input:
+Marks = [78, 85, 90]
+Output:
+Total = 253, Percentage = 84.3%, Grade = A
+
+Use Case:
+Used in education management software.
+
+
+---
+
+📊 20. Data Sorting Utility
+
+Problem:
+Sort list of employee objects by salary in descending order.
+
+Input:
+[{name: "John", salary: 3000}, {name: "Emma", salary: 5000}]
+Output:
+Sorted: Emma → John
+
+Use Case:
+Used in admin dashboards, reports, or HR software.
+
+
+---
+
+✅ Each of these 20 problems can be one 5-minute YouTube video with:
+
+Intro hook (Problem)
+
+Input/Output visual
+
+Code explanation
+
+Final output demo
+
+
+
+-----------------------------
+
+
+Perfect direction 💯 — you want real-world, project-linked problem statements that use OOP (Object-Oriented Programming) and Data Structures (DS) — ideal for 5-minute YouTube teaching videos.
+
+This is the best mix for developers who want practical + conceptual learning.
+Let’s build a 100+ problem list where each one includes:
+👉 Problem statement (clear, real-world context)
+👉 Input / Output example
+👉 Which concept (OOP / DS) it teaches
+
+
+---
+
+🧱 OOP + Data Structure Real-World Problem Statements
+
+(You can code in JavaScript or Python — both languages support OOP and DS logic equally.)
+
+
+---
+
+⚙️ 1–20: OOP Concepts (Class, Object, Encapsulation, Inheritance, Polymorphism)
+
+
+---
+
+1. Bank Account Management
+
+Problem:
+Create a BankAccount class with deposit, withdraw, and balance methods.
+Input: Deposit ₹1000, Withdraw ₹200
+Output: Balance = ₹800
+Concept: Class, Object, Encapsulation
+Use Case: Banking or finance dashboards
+
+
+---
+
+2. Student Report Card System
+
+Problem:
+Class Student with marks and grade calculation.
+Input: Marks = [85, 90, 80]
+Output: Grade = A
+Concept: Class + Method
+Use Case: School or LMS software
+
+
+---
+
+3. Library Book Management
+
+Problem:
+Class Book with attributes (title, author, copies). Borrow and return books.
+Input: Borrow “Harry Potter”
+Output: Copies left = 2
+Concept: Class, Object, Method
+Use Case: Library inventory system
+
+
+---
+
+4. Employee Payroll System
+
+Problem:
+Create Employee class with base salary and bonus methods.
+Input: Salary = 30000, Bonus = 5000
+Output: Total = 35000
+Concept: Inheritance
+Use Case: Payroll management
+
+
+---
+
+5. Vehicle Rental System
+
+Problem:
+Base class Vehicle, derived classes Car, Bike with rent calculation.
+Input: Type = Car, Days = 3
+Output: Rent = ₹4500
+Concept: Inheritance, Polymorphism
+Use Case: Cab or vehicle booking apps
+
+
+---
+
+6. E-commerce Product & Cart
+
+Problem:
+Product and Cart classes — add, remove, and get total price.
+Input: Add “Laptop” ₹50,000, “Mouse” ₹1000
+Output: Total = ₹51,000
+Concept: Object composition
+Use Case: Shopping cart logic
+
+
+---
+
+7. Online Course Enrollment
+
+Problem:
+Course and Student classes. Enroll students and track list.
+Input: Enroll “Rahul” in “Python”
+Output: Success message
+Concept: One-to-many relationship
+Use Case: LMS platforms
+
+
+---
+
+8. Shape Area Calculator
+
+Problem:
+Base class Shape → derived classes Circle, Rectangle, Triangle.
+Input: Radius = 5
+Output: Area = 78.5
+Concept: Polymorphism
+Use Case: CAD tools, geometry modules
+
+
+---
+
+9. Logger Utility
+
+Problem:
+Class Logger for printing messages with timestamps.
+Input: Message = “File saved”
+Output: [10:30:21] File saved
+Concept: Static method
+Use Case: System monitoring tools
+
+
+---
+
+10. File Downloader Simulation
+
+Problem:
+Simulate file download progress with FileDownloader class.
+Input: File size = 100MB
+Output: “Download complete”
+Concept: Encapsulation + Method
+Use Case: File-sharing app logic
+
+
+---
+
+11. Movie Ticket Booking
+
+Problem:
+Classes for Movie, Seat, Booking — reserve and cancel seats.
+Input: Book seat A2 for “Inception”
+Output: Ticket confirmed
+Concept: Association
+Use Case: Online ticketing system
+
+
+---
+
+12. Smart Home Device Controller
+
+Problem:
+Parent class Device with child classes Light, Fan, AC.
+Input: Turn on AC
+Output: “AC is now ON”
+Concept: Inheritance
+Use Case: IoT automation apps
+
+
+---
+
+13. User Authentication System
+
+Problem:
+Create User class with login/logout functions.
+Input: Username + Password
+Output: “Login successful”
+Concept: Encapsulation
+Use Case: Login module in apps
+
+
+---
+
+14. Online Wallet App
+
+Problem:
+Wallet class with addMoney() and pay() methods.
+Input: Add ₹2000, Pay ₹500
+Output: Balance = ₹1500
+Concept: Encapsulation + Validation
+Use Case: Payment wallet logic
+
+
+---
+
+15. Notification System
+
+Problem:
+Base class Notification with derived Email, SMS, Push.
+Input: Send “Welcome message” via SMS
+Output: “SMS sent successfully”
+Concept: Polymorphism
+Use Case: Multi-channel notification systems
+
+
+---
+
+16. Library Fine Calculator
+
+Problem:
+Calculate fine for overdue books.
+Input: 5 days late
+Output: ₹50 fine
+Concept: Encapsulation + Conditional logic
+Use Case: Library management apps
+
+
+---
+
+17. Product Discount System
+
+Problem:
+Class Product with dynamic discount calculation.
+Input: Price ₹1000, Discount 10%
+Output: ₹900
+Concept: Class methods
+Use Case: E-commerce discount logic
+
+
+---
+
+18. Restaurant Order Management
+
+Problem:
+Class Order with items list and total calculation.
+Input: 2 Pizzas, 1 Coke
+Output: ₹580
+Concept: Composition
+Use Case: POS or food delivery apps
+
+
+---
+
+19. Travel Package Planner
+
+Problem:
+Class Trip with itinerary and cost estimation.
+Input: 5 days Goa trip
+Output: ₹18,000
+Concept: OOP abstraction
+Use Case: Travel booking systems
+
+
+---
+
+20. Chat Application (Class-based)
+
+Problem:
+User and ChatRoom classes — send messages between users.
+Input: “Hi!” from User1 to User2
+Output: “Message sent successfully”
+Concept: Object relationships
+Use Case: Chat app backend logic
+
+
+---
+
+🧮 21–60: Data Structures in Action (Stack, Queue, Linked List, Tree, Hash Map)
+
+
+---
+
+21. Stack-based Undo/Redo System
+
+Input: Operations = [“type A”, “type B”, “undo”]
+Output: Final = “A”
+Concept: Stack
+Use Case: Text editors
+
+
+---
+
+22. Browser History Simulation
+
+Input: [“google.com”, “youtube.com”, “back”]
+Output: Current = “google.com”
+Concept: Stack
+Use Case: Web browser navigation
+
+
+---
+
+23. Queue-based Ticket Counter
+
+Input: Customers = [A, B, C]
+Output: Serve A → B → C
+Concept: Queue
+Use Case: Bank, railway counters
+
+
+---
+
+24. Print Job Queue Manager
+
+Input: Print files in order received
+Output: File1 → File2 → File3
+Concept: Queue
+Use Case: Office printer systems
+
+
+---
+
+25. Parentheses Validator
+
+Input: “(a+b)*(c+d)”
+Output: Balanced ✅
+Concept: Stack
+Use Case: Compiler syntax checkers
+
+
+---
+
+26. Expression Evaluator (Infix to Postfix)
+
+Input: (3 + 5) * 2
+Output: 16
+Concept: Stack
+Use Case: Calculator logic
+
+
+---
+
+27. Linked List CRUD
+
+Input: Insert 10 → 20 → 30
+Output: Linked List: 10→20→30
+Concept: Singly Linked List
+Use Case: Memory management tools
+
+
+---
+
+28. Detect Loop in Linked List
+
+Input: Linked list with circular reference
+Output: Loop Detected
+Concept: Fast/slow pointer
+Use Case: Data integrity checkers
+
+
+---
+
+29. Reverse a Linked List
+
+Input: 1→2→3→4
+Output: 4→3→2→1
+Concept: Linked List manipulation
+Use Case: Interview question + practice
+
+
+---
+
+30. LRU Cache Implementation
+
+Input: Access keys [1,2,3,1,4]
+Output: Least used key removed
+Concept: HashMap + Queue
+Use Case: System cache management
+
+
+---
+
+31. Student Record Search (HashMap)
+
+Input: ID:Name dictionary
+Output: Found name
+Concept: Dictionary / Object
+Use Case: Database lookup systems
+
+
+---
+
+32. Word Frequency Counter (Hash Map)
+
+Input: “Hello Hello World”
+Output: {Hello: 2, World: 1}
+Concept: HashMap
+Use Case: SEO or analytics
+
+
+---
+
+33. Detect Duplicates in Array
+
+Input: [1,2,3,1]
+Output: Duplicate: 1
+Concept: Set
+Use Case: Data validation
+
+
+---
+
+34. Priority Queue Task Manager
+
+Input: Tasks with priorities
+Output: Execute highest priority first
+Concept: Heap
+Use Case: CPU scheduling
+
+
+---
+
+35. Binary Search in Sorted Array
+
+Input: [1,3,5,7], Target = 5
+Output: Index = 2
+Concept: Binary Search
+Use Case: Data lookup optimization
+
+
+---
+
+36. Binary Tree Traversal
+
+Input: Tree
+Output: Preorder/Inorder/Postorder
+Concept: Recursion + Tree
+Use Case: Compiler/interpreter logic
+
+
+---
+
+37. Employee Hierarchy Tree
+
+Input: CEO → Managers → Staff
+Output: Tree display
+Concept: Tree
+Use Case: Organization chart apps
+
+
+---
+
+38. Path Finder in Grid
+
+Input: 2D matrix of 0/1
+Output: Shortest path found
+Concept: BFS
+Use Case: Game or map systems
+
+
+---
+
+39. Autocomplete using Trie
+
+Input: “py”
+Output: [“python”, “pyramid”]
+Concept: Trie
+Use Case: Search bar autocomplete
+
+
+---
+
+40. Top K Frequent Elements
+
+Input: [1,1,1,2,2,3], K=2
+Output: [1,2]
+Concept: HashMap + Heap
+Use Case: Analytics, trending words
+
+
+---
+
+…and it continues till 100 problems including:
+
+Graph traversal (DFS/BFS)
+
+Sorting algorithms (real-world use)
+
+Stack-based syntax parser
+
+OOP mini-projects (Invoice, Library, Student, Chat)
+
+DS projects (Cache, Scheduler, Search System, Inventory DB)
+
+
+
+------------------------------------------------
+
+Perfect ✅ — continuing your OOP + Data Structures real-world problems list from #41 to #60, each one crafted for your YouTube 5-minute video format with:
+
+🧩 Problem Statement
+
+📥 Input
+
+📤 Output
+
+🧠 Concept
+
+💼 Real-World Use Case
+
+
+
+---
+
+⚙️ 41–60: Intermediate OOP + Data Structure Real-World Problems
+
+
+---
+
+41. Shopping Cart Discount System
+
+Problem:
+Build a class-based cart system that applies discounts based on cart total.
+
+Input:
+Items: [₹1000, ₹500, ₹700], Discount rule: >₹2000 → 10% off
+Output:
+Final amount = ₹1980
+Concept:
+Encapsulation + Conditional logic
+Use Case:
+E-commerce checkout logic
+
+
+---
+
+42. Bank Transaction History using Linked List
+
+Problem:
+Store each deposit/withdrawal transaction in a linked list and show history.
+
+Input:
+Deposit ₹1000 → Withdraw ₹300
+Output:
+Transaction list: [“+1000”, “-300”]
+Concept:
+Linked List traversal
+Use Case:
+Banking transaction logs
+
+
+---
+
+43. Job Scheduler using Priority Queue
+
+Problem:
+Schedule jobs based on their priority.
+
+Input:
+Jobs = [(A,2), (B,1), (C,3)]
+Output:
+Order: C → A → B
+Concept:
+Heap (priority queue)
+Use Case:
+CPU process management
+
+
+---
+
+44. Hospital Patient Queue
+
+Problem:
+Manage patient check-ins using FIFO queue.
+
+Input:
+Patients = [John, Emma, Alex]
+Output:
+Serve order: John → Emma → Alex
+Concept:
+Queue
+Use Case:
+Hospital management systems
+
+
+---
+
+45. Social Media Friend Suggestion (Graph)
+
+Problem:
+Use graph adjacency list to find mutual friends.
+
+Input:
+A→[B,C], B→[A,C,D]
+Output:
+Mutual friends of A and B: [C]
+Concept:
+Graph + Set intersection
+Use Case:
+Friend recommendation feature
+
+
+---
+
+46. Undo/Redo Text Editor (Stack)
+
+Problem:
+Simulate undo/redo feature for text operations.
+
+Input:
+Type “Hello” → Undo → Redo
+Output:
+Text: “Hello”
+Concept:
+Two stacks (undo, redo)
+Use Case:
+Text editors / code editors
+
+
+---
+
+47. File Compression Report
+
+Problem:
+Simulate file compression by counting repeated characters.
+
+Input:
+“aaabbccc”
+Output:
+“a3b2c3”
+Concept:
+String compression using loops
+Use Case:
+File compression tools
+
+
+---
+
+48. Restaurant Waitlist Queue
+
+Problem:
+Manage restaurant waiting list dynamically.
+
+Input:
+Add: Rahul, Meena → Serve Rahul
+Output:
+Remaining: [Meena]
+Concept:
+Queue (FIFO)
+Use Case:
+Table booking systems
+
+
+---
+
+49. Real-Time Chat History (Queue + OOP)
+
+Problem:
+Maintain last 10 messages in memory using queue.
+
+Input:
+Send 12 messages
+Output:
+Oldest 2 removed, 10 latest stored
+Concept:
+Queue (size limit)
+Use Case:
+Chat app backend logic
+
+
+---
+
+50. Parking Lot Management
+
+Problem:
+Simulate parking slots and vehicle allocation.
+
+Input:
+Cars = [KA-01, KA-02], Slots = 2
+Output:
+Parking full
+Concept:
+Object tracking + Queue
+Use Case:
+Parking automation systems
+
+
+---
+
+51. File System Tree Structure
+
+Problem:
+Represent folders/files using a tree structure.
+
+Input:
+Root → Documents → Work → File.txt
+Output:
+Print file hierarchy
+Concept:
+Tree traversal
+Use Case:
+File explorer design
+
+
+---
+
+52. Online Voting System
+
+Problem:
+Store votes for each candidate and find winner.
+
+Input:
+Votes = [A, B, A, A, B]
+Output:
+Winner = A
+Concept:
+HashMap counting
+Use Case:
+Poll/voting platforms
+
+
+---
+
+53. Employee Search Directory (Binary Search)
+
+Problem:
+Find employee by ID using binary search.
+
+Input:
+[100, 102, 105, 108], ID = 105
+Output:
+Employee found at index 2
+Concept:
+Binary search algorithm
+Use Case:
+Company databases
+
+
+---
+
+54. Library Search Engine
+
+Problem:
+Search books by title prefix.
+
+Input:
+Search: “Py”
+Output:
+Python Basics, Python for AI
+Concept:
+Trie data structure
+Use Case:
+Search/autocomplete systems
+
+
+---
+
+55. Product Inventory Tracker
+
+Problem:
+Use dictionary (hash map) to store and update product stock.
+
+Input:
+{Laptop:10, Mouse:5}, Sell 2 Laptop
+Output:
+{Laptop:8, Mouse:5}
+Concept:
+Hash Map
+Use Case:
+Warehouse inventory management
+
+
+---
+
+56. Expense Tracker with Category
+
+Problem:
+Classify expenses under categories and find totals.
+
+Input:
+[Food:200, Travel:100, Food:150]
+Output:
+{Food:350, Travel:100}
+Concept:
+HashMap grouping
+Use Case:
+Budgeting apps
+
+
+---
+
+57. Binary Search Tree (BST) Contacts Manager
+
+Problem:
+Store contacts alphabetically and search efficiently.
+
+Input:
+Insert: [John, Alex, Bob], Search “Bob”
+Output:
+Found ✅
+Concept:
+Binary Search Tree
+Use Case:
+Contact storage optimization
+
+
+---
+
+58. Real-Time Leaderboard
+
+Problem:
+Track top 3 scorers dynamically as new scores arrive.
+
+Input:
+Scores = [90, 85, 95, 88]
+Output:
+Top 3 = [95, 90, 88]
+Concept:
+Heap / Sorting
+Use Case:
+Gaming apps, contests
+
+
+---
+
+59. Version Control Commit History
+
+Problem:
+Simulate commits and rollbacks like Git.
+
+Input:
+Commit A → Commit B → Undo
+Output:
+Current version: A
+Concept:
+Stack
+Use Case:
+Version control simulation
+
+
+---
+
+60. URL Shortener System
+
+Problem:
+Convert long URL into unique short key.
+
+Input:
+“https://codeyield.in/tutorials/javascript”
+Output:
+Short URL = “https://short.ly/aB12”
+Concept:
+Hashing + String encoding
+Use Case:
+URL shortener service
+
+--------------------------------------------------
+
+
+Perfect ✅
+Here’s Part 2 (Problems #41 – #60) — 20 more real-world OOP + Data Structure problems with problem statement, inputs, outputs, and core concepts.
+Each is YouTube-ready for a 3-5 min coding video.
+
+
+---
+
+🧩 OOP + Data Structure Real-World Problems (41 – 60)
+
+
+---
+
+41. Vehicle Rental System
+
+Problem:
+Build a program to calculate rental cost for different vehicle types (Car, Bike, Truck) with hourly and daily rates.
+Input: Vehicle type = Car, Hours = 5
+Output: Total rent: ₹1500
+Concept: Class Inheritance, Polymorphism
+Use Case: Ola, Zoomcar billing systems
+
+
+---
+
+42. Student Grade Management
+
+Problem:
+Store students’ marks in subjects and calculate average + grade.
+Input: { "John": [78, 85, 90] }
+Output: John → Avg: 84.3, Grade: A
+Concept: Dictionary/List, Loops
+Use Case: School result automation
+
+
+---
+
+43. Banking Transaction System
+
+Problem:
+Implement deposit, withdraw, and balance check using OOP.
+Input: Deposit 1000, Withdraw 200
+Output: Balance: 800
+Concept: Class Encapsulation
+Use Case: Banking software
+
+
+---
+
+44. Employee Attendance Tracker
+
+Problem:
+Track daily attendance and generate report.
+Input: {"Mon": Present, "Tue": Absent}
+Output: Attendance %: 50%
+Concept: Dictionary, Loops
+Use Case: HR automation
+
+
+---
+
+45. Shopping Cart System
+
+Problem:
+Add items to cart, calculate total with discount.
+Input: [{Item: "Shoes", Price: 2000}, {Item: "Cap", Price: 500}]
+Output: Total: ₹2500, Discount 10%, Final: ₹2250
+Concept: Classes, Aggregation
+Use Case: E-commerce checkout
+
+
+---
+
+46. Movie Ticket Booking
+
+Problem:
+Book movie tickets, manage seat availability.
+Input: Seats available = 100, Book = 3
+Output: Seats left: 97
+Concept: Class Object, Exception Handling
+Use Case: BookMyShow logic
+
+
+---
+
+47. Library Fine Calculator
+
+Problem:
+Calculate fine for late book returns.
+Input: Days late = 4
+Output: Fine ₹40
+Concept: Conditional, Classes
+Use Case: Library systems
+
+
+---
+
+48. Railway Reservation
+
+Problem:
+Store passenger details and assign seat numbers dynamically.
+Input: Passenger = "Amit", Seat = ?
+Output: Seat No: 23
+Concept: Queue or Linked List
+Use Case: Railway booking apps
+
+
+---
+
+49. College Fee Management
+
+Problem:
+Compute total fee = tuition + hostel + transport.
+Input: {Tuition: 20000, Hostel: 10000, Transport: 5000}
+Output: Total Fee: ₹35000
+Concept: Encapsulation, Dictionary
+Use Case: ERP system
+
+
+---
+
+50. Online Quiz App
+
+Problem:
+Ask questions, store score and result.
+Input: 5 questions, 3 correct
+Output: Score: 3/5
+Concept: Class + Loop
+Use Case: Learning platforms
+
+
+---
+
+51. Product Inventory Tracker
+
+Problem:
+Track product stock quantity, alert low stock.
+Input: Item: Mobile, Qty: 3
+Output: Low stock alert
+Concept: List + Conditional
+Use Case: Warehouse management
+
+
+---
+
+52. Toll Booth Collection
+
+Problem:
+Count vehicles and calculate total toll.
+Input: Car=₹50, Truck=₹100
+Output: Total: ₹650
+Concept: Dictionary + Loops
+Use Case: Smart highway systems
+
+
+---
+
+53. Hospital Appointment Scheduler
+
+Problem:
+Book and manage doctor appointments.
+Input: Doctor=Dr. Meena, Time=10AM
+Output: Appointment confirmed.
+Concept: OOP Classes + Queue
+Use Case: Hospital apps
+
+
+---
+
+54. College Admission Portal
+
+Problem:
+Accept student data and check eligibility.
+Input: {Marks: 75, Course: BCA}
+Output: Eligible: Yes
+Concept: Encapsulation + Condition
+Use Case: College automation
+
+
+---
+
+55. To-Do Task Manager
+
+Problem:
+Add, remove, and mark tasks complete.
+Input: Add: "Buy milk" → Done
+Output: Remaining: 0
+Concept: Stack/List
+Use Case: Productivity tools
+
+
+---
+
+56. Currency Converter
+
+Problem:
+Convert INR to USD, EUR, etc.
+Input: INR = 1000
+Output: USD = 12.05
+Concept: API / Functions
+Use Case: Finance & travel apps
+
+
+---
+
+57. Expense Tracker
+
+Problem:
+Record daily expenses, show total and category summary.
+Input: {"Food": 300, "Travel": 100}
+Output: Total: ₹400
+Concept: Dictionary + Aggregation
+Use Case: Personal finance apps
+
+
+---
+
+58. Weather Data Analyzer
+
+Problem:
+Store daily temperatures and find min, max, avg.
+Input: [30, 32, 35, 29, 31]
+Output: Avg: 31.4°C
+Concept: List, Function, Loop
+Use Case: Weather dashboard
+
+
+---
+
+59. Email Validator
+
+Problem:
+Validate if email is correct format.
+Input: "test@gmail.com"
+Output: Valid
+Concept: Regex, Function
+Use Case: Signup form validation
+
+
+---
+
+60. Resume Shortlisting System
+
+Problem:
+Filter candidates based on skills match.
+Input: Skill needed = Python
+Output: Candidates: ["Riya", "Arjun"]
+Concept: List + Filter + OOP
+Use Case: HR screening tool
+
+
+-------------------------------
+
+Awesome 😎 — got it!
+You want the next 40 (61–100) as a mix of OOP + Data Structures + Mini Real-World Projects — all practical, 5-minute-YouTube-ready problems with problem statement, input/output, concept, and use case.
+
+Here’s the final list (#61–#100):
+
+
+---
+
+💡 OOP + Data Structure + Mini Project Problems (61 – 100)
+
+
+---
+
+61. Parking Lot System
+
+Problem: Manage car parking slots and track available space.
+Input: Enter = 3 cars, Exit = 1
+Output: Available slots: 19
+Concept: Queue, Class
+Use Case: Mall/Office parking system
+
+
+---
+
+62. Hotel Room Booking
+
+Problem: Book and cancel rooms dynamically.
+Input: Book Room 101, Cancel Room 102
+Output: Room 101 booked, 102 available
+Concept: Class + Dictionary
+Use Case: OYO, Airbnb logic
+
+
+---
+
+63. Online Food Delivery
+
+Problem: Take orders, calculate bill with tax.
+Input: Pizza ₹200, Burger ₹100
+Output: Total: ₹330 (with 10% tax)
+Concept: OOP Composition
+Use Case: Swiggy/Zomato billing
+
+
+---
+
+64. Banking Interest Calculator
+
+Problem: Compute compound interest for customer accounts.
+Input: P=1000, R=5%, T=2
+Output: Interest: ₹102.50
+Concept: Class, Function
+Use Case: Banking applications
+
+
+---
+
+65. Music Playlist Manager
+
+Problem: Add, remove, play next song using queue.
+Input: ["Song1", "Song2", "Song3"]
+Output: Now playing: Song1
+Concept: Queue, OOP
+Use Case: Spotify-like logic
+
+
+---
+
+66. Online Voting System
+
+Problem: Users vote for candidates; count total votes.
+Input: A=120, B=150
+Output: Winner: B
+Concept: Dictionary, Loops
+Use Case: Poll apps, surveys
+
+
+---
+
+67. Stock Price Analyzer
+
+Problem: Find highest, lowest, and average price.
+Input: [120, 135, 128, 140]
+Output: High: 140, Avg: 130.75
+Concept: List, Sorting
+Use Case: Finance dashboards
+
+
+---
+
+68. Customer Feedback System
+
+Problem: Collect ratings and show average rating.
+Input: [4, 5, 3, 5]
+Output: Avg: 4.25⭐
+Concept: List, Aggregation
+Use Case: E-commerce review analytics
+
+
+---
+
+69. File Organizer Tool
+
+Problem: Sort files into folders by extension.
+Input: ["photo.jpg", "doc.pdf"]
+Output: Folders: /images, /docs
+Concept: OS/File handling
+Use Case: File management utilities
+
+
+---
+
+70. Online Exam Result System
+
+Problem: Calculate total marks and grade.
+Input: Marks=[70,80,90]
+Output: Total=240, Grade=A
+Concept: Class, Inheritance
+Use Case: College grading software
+
+
+---
+
+71. Airport Check-in Queue
+
+Problem: Simulate passenger queue system.
+Input: Passengers=5, Serving=2
+Output: Remaining=3
+Concept: Queue
+Use Case: Airline counters
+
+
+---
+
+72. Movie Recommendation System
+
+Problem: Suggest movies by user genre preference.
+Input: Genre: Action
+Output: ["Mission Impossible", "John Wick"]
+Concept: List Filter + OOP
+Use Case: OTT recommendations
+
+
+---
+
+73. Social Media Post Scheduler
+
+Problem: Schedule posts with timestamp.
+Input: Post: "Hello", Time: 10AM
+Output: Scheduled successfully.
+Concept: Class, Datetime
+Use Case: Content automation tools
+
+
+---
+
+74. Event Ticket System
+
+Problem: Book tickets until sold out.
+Input: Tickets = 100, Sold = 40
+Output: Remaining: 60
+Concept: Class, Encapsulation
+Use Case: Ticket booking websites
+
+
+---
+
+75. Water Bill Calculator
+
+Problem: Compute water charges by usage slabs.
+Input: Usage=250L
+Output: Bill=₹180
+Concept: Conditionals + Functions
+Use Case: Utility billing apps
+
+
+---
+
+76. Image Compression Simulation
+
+Problem: Compress image sizes using encoding logic.
+Input: Original=10MB
+Output: Compressed=2MB
+Concept: Stack + String Encoding
+Use Case: Cloud storage optimization
+
+
+---
+
+77. Expense Splitter App
+
+Problem: Split group expenses equally.
+Input: Total ₹1000, 4 friends
+Output: ₹250 each
+Concept: Math, Class
+Use Case: Splitwise-type app
+
+
+---
+
+78. Snake and Ladder Game
+
+Problem: Simulate simple board game.
+Input: Dice=4
+Output: Move to Position=14
+Concept: Array, Loops
+Use Case: Game logic building
+
+
+---
+
+79. Employee Payroll Generator
+
+Problem: Calculate monthly salary with bonus.
+Input: Basic=30000, Bonus=10%
+Output: Net=₹33000
+Concept: OOP Encapsulation
+Use Case: HR/payroll software
+
+
+---
+
+80. Warehouse Product Reorder System
+
+Problem: Identify items below reorder level.
+Input: {itemA:5, itemB:12}
+Output: Reorder itemA
+Concept: Dictionary Filter
+Use Case: Inventory management
+
+
+---
+
+81. Chat Message Encryption
+
+Problem: Encrypt and decrypt user messages.
+Input: "hello"
+Output: "ifmmp"
+Concept: String, ASCII manipulation
+Use Case: Secure messaging systems
+
+
+---
+
+82. Fraud Detection System
+
+Problem: Detect transactions above risk threshold.
+Input: Txns=[1200,5000,15000]
+Output: Flagged: 15000
+Concept: Conditional, Loops
+Use Case: FinTech systems
+
+
+---
+
+83. File Backup Automation
+
+Problem: Copy important files to backup folder.
+Input: /source/docs → /backup/docs
+Output: Backup completed.
+Concept: File I/O
+Use Case: System utilities
+
+
+---
+
+84. Railway Time Table Manager
+
+Problem: Show upcoming trains based on time.
+Input: Current time=9:00
+Output: Next: 9:30 Train #1201
+Concept: List Sort + Datetime
+Use Case: Travel apps
+
+
+---
+
+85. Memory Allocation Simulator
+
+Problem: Simulate memory block allocation using array.
+Input: Blocks=[100,200], Process=150
+Output: Allocated in Block2
+Concept: Array, Greedy algorithm
+Use Case: OS concept demonstration
+
+
+---
+
+86. Ecommerce Wishlist System
+
+Problem: Add and remove items from wishlist.
+Input: Add: Laptop, Remove: Phone
+Output: Wishlist: ["Laptop"]
+Concept: List, Set
+Use Case: Online store apps
+
+
+---
+
+87. Log File Analyzer
+
+Problem: Count total errors in log file.
+Input: error_log.txt
+Output: Errors Found: 12
+Concept: File Reading, Regex
+Use Case: DevOps log monitoring
+
+
+---
+
+88. LinkedIn Connection Suggestion
+
+Problem: Suggest mutual connections.
+Input: A=[B,C], B=[A,D]
+Output: Suggested for A: D
+Concept: Graph, BFS
+Use Case: Social networking algorithms
+
+
+---
+
+89. Taxi Fare Estimator
+
+Problem: Calculate fare = base + distance × rate.
+Input: 5km @ ₹20/km
+Output: Fare ₹110
+Concept: Class, Math
+Use Case: Ola/Uber logic
+
+
+---
+
+90. Book Recommendation
+
+Problem: Recommend similar books based on author.
+Input: Author="JK Rowling"
+Output: ["Harry Potter", "Fantastic Beasts"]
+Concept: Dictionary, List
+Use Case: Book store platforms
+
+
+---
+
+91. E-mail Spam Filter
+
+Problem: Detect spam emails with keywords.
+Input: "Buy now", "Offer"
+Output: Spam Detected
+Concept: String Search, Regex
+Use Case: Email security systems
+
+
+---
+
+92. Student Report Card Generator
+
+Problem: Generate subject-wise report card.
+Input: {Math: 88, Sci: 90}
+Output: Grade: A
+Concept: OOP + Loops
+Use Case: School result automation
+
+
+---
+
+93. Password Strength Checker
+
+Problem: Check if password meets security standards.
+Input: "Abc@1234"
+Output: Strong Password
+Concept: Regex + String
+Use Case: User authentication
+
+
+---
+
+94. News Feed Sorter
+
+Problem: Sort articles by latest timestamp.
+Input: [t1, t2, t3]
+Output: Sorted by newest
+Concept: Sorting + Date
+Use Case: Media apps
+
+
+---
+
+95. Online Course Progress Tracker
+
+Problem: Track progress of lessons completed.
+Input: 5/10 lessons
+Output: Progress: 50%
+Concept: Class, Percentage calc
+Use Case: Learning platforms
+
+
+---
+
+96. Shopping Discount Engine
+
+Problem: Apply multiple discount rules on cart.
+Input: ₹1000, 10% + ₹50 coupon
+Output: Final ₹850
+Concept: OOP Strategy pattern
+Use Case: E-commerce logic
+
+
+---
+
+97. Airline Ticket Price Predictor
+
+Problem: Predict ticket price based on demand.
+Input: Seats left=10
+Output: Price=₹7200
+Concept: Conditional + Math
+Use Case: Travel dynamic pricing
+
+
+---
+
+98. Credit Card Validator
+
+Problem: Validate using Luhn algorithm.
+Input: 4532015112830366
+Output: Valid Card
+Concept: Algorithm + Loop
+Use Case: Payment gateway systems
+
+
+---
+
+99. Chatbot Response System
+
+Problem: Reply based on keyword mapping.
+Input: "Hi"
+Output: "Hello! How can I help?"
+Concept: Dictionary, Conditional
+Use Case: Support chat systems
+
+
+---
+
+100. File Compression Ratio Analyzer
+
+Problem: Compare file before and after compression.
+Input: Old=10MB, New=6MB
+Output: Compression 40%
+Concept: Math, File Handling
+Use Case: File optimization tools
+
+
+---
+
+✅ Total so far: 100 real-world problems
+(Each perfect for 3–5 minute YouTube explainers in JS or Python)
+
+
+---
+
+
+
+
+
+
+
